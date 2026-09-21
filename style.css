@@ -1,0 +1,22 @@
+/* Background website */
+body {
+    background-color: #FAF9F6;
+
+    /* Font Dasar */
+    font-family: 'Arial', Helvetica, sans-serif;
+
+    /* Jarak margin dasar*/
+    margin: 20px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    line-height: 1.5;
+}
