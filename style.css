@@ -7,6 +7,9 @@ body {
 
     /* Jarak margin dasar*/
     margin: 20px;
+
+    /*Alignment rata tengah*/
+    text-align: center;
 }
 
 h1 {
@@ -19,4 +22,16 @@ p {
     font-family: Arial, sans-serif;
     font-weight: normal;
     line-height: 1.5;
+}
+
+/* Styling untuk navigation button */
+.btn {
+    display: inline-block;
+    background-color: antiquewhite;
+    color: black;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 16px;
+    font-weight: bold;
+    margin: 5px
 }
